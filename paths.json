@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/jsmall-commerce_universal_editor/language-masters/en:/",
+    "/content/jsmall-commerce_universal_editor/language-masters/en/:/",
+    "/content/jsmall-commerce_universal_editor/language-masters/en/:/en/",
+    "/content/jsmall-commerce_universal_editor/configuration:/.helix/config.json",
+    "/content/jsmall-commerce_universal_editor/metadata:/metadata.json",
+    "/content/jsmall-commerce_universal_editor/redirects:/redirects.json",
+    "/content/jsmall-commerce_universal_editor/placeholders:/placeholders.json",
+    "/content/jsmall-commerce_universal_editor.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/jsmall-commerce_universal_editor/",
+    "/content/dam/jsmall-commerce_universal_editor/"
   ]
 }
